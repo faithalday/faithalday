@@ -1,8 +1,7 @@
-<img width="224" height="264" alt="1000076011" src="https://github.com/user-attachments/assets/6b712e8b-5b3d-4866-9147-f4c9cf75331e" />
+<p align="center">
+<img width="2048" height="1206" alt="1000035889" src="https://github.com/user-attachments/assets/c8f1f940-8b41-4efa-b445-c0b0d0306c83" />
 
-
-
-![:worm:](https://komarev.com/ghpvc/?username=shiningumbreon&color=red&label=🍬)
+![:worm:](https://komarev.com/ghpvc/?username=shiningumbreon&color=red&label=🎈)
 
 
 stinkers -> [@azpyiel](https://github.com/azpyiel) , [@GILLIONTIDESTRIDER](https://github.com/GILLIONTIDESTRIDER)
