@@ -1,3 +1,7 @@
+<p align="center">
+<img width="2048" height="1206" alt="1000035892" src="https://github.com/user-attachments/assets/4a074ca4-8917-4cbb-b785-c05b544177bf" />
+
+</p>
 
 ![:worm:](https://komarev.com/ghpvc/?username=shiningumbreon&color=red&label=🎈)
 
