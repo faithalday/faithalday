@@ -5,8 +5,7 @@
 
 ![:worm:](https://komarev.com/ghpvc/?username=shiningumbreon&color=red&label=🎈)
 
-stinkers -> [@azpyiel](https://github.com/azpyiel) , [@GILLIONTIDESTRIDER](https://github.com/GILLIONTIDESTRIDER)
-
+stinker -> [@azpyiel](https://github.com/azpyiel) 
 schizohorse -> [@VilLeynn](https://github.com/VilLeynn) , [@BackstageAlchemist](https://github.com/BackstageAlchemist) , [@ruruby00](https://github.com/ruruby00) , [@lethaldevotion](https://github.com/lethaldevotion) , [@WhispyVibez](https://github.com/WhispyVibez) , [@byymyownn](https://github.com/byymyownn) , [Emu0312](https://github.com/Emu0312)
 
 
