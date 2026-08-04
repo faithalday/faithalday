@@ -8,7 +8,7 @@
 stinker -> [@azpyiel](https://github.com/azpyiel) 
 
 
-schizohorse -> [@VilLeynn](https://github.com/VilLeynn) , [@BackstageAlchemist](https://github.com/BackstageAlchemist) , [@theconqueringprotaganista]([https://github.com/ruruby00](https://github.com/theconqueringprotaganista)) , [@lethaldevotion](https://github.com/lethaldevotion) , [@WhispyVibez](https://github.com/WhispyVibez) , [@byymyownn](https://github.com/byymyownn) , [Emu0312](https://github.com/Emu0312)
+schizohorse -> [@VilLeynn](https://github.com/VilLeynn) , [@BackstageAlchemist](https://github.com/BackstageAlchemist) , [@theconqueringprotaganista](https://github.com/theconqueringprotaganista) , [@lethaldevotion](https://github.com/lethaldevotion) , [@WhispyVibez](https://github.com/WhispyVibez) , [@byymyownn](https://github.com/byymyownn) , [Emu0312](https://github.com/Emu0312)
 
 
 491999411942105097 pjsk en
